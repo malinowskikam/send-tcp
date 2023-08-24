@@ -1,0 +1,4 @@
+enum Input {
+    Bytes,
+    String
+}
